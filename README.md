@@ -1,4 +1,4 @@
-HZC Is Life
+<b> <h1> HZC Is Life </h1> </b>
 
 <h2> SOBRE </h2>
 
